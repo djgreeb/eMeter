@@ -1,0 +1,2098 @@
+
+//0x20
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00
+};
+static const tImage CDJ900_0x20 = { image_data_CDJ900_0x20,
+    6, 7, 8};
+#endif
+
+
+//0x21
+    0x80, 
+    0x80, 
+    0x80, 
+    0x80, 
+    0x80, 
+    0x00, 
+    0x80
+};
+static const tImage CDJ900_0x21 = { image_data_CDJ900_0x21,
+    6, 7, 8};
+#endif
+
+
+//0x22
+    0xa0, 
+    0xa0, 
+    0xa0, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00
+};
+static const tImage CDJ900_0x22 = { image_data_CDJ900_0x22,
+    6, 7, 8};
+#endif
+
+#if (0x020 == 0x0)
+//0x23
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00
+};
+static const tImage CDJ900_0x23 = { image_data_CDJ900_0x23,
+    6, 7, 8};
+#endif
+
+
+//0x24
+    0x20, 
+    0x78, 
+    0xa0, 
+    0x70, 
+    0x28, 
+    0xf0, 
+    0x20
+};
+static const tImage CDJ900_0x24 = { image_data_CDJ900_0x24,
+    6, 7, 8};
+#endif
+
+
+//0x25
+    0x00, 
+    0x00, 
+    0xc8, 
+    0xd0, 
+    0x20, 
+    0x58, 
+    0x98
+};
+static const tImage CDJ900_0x25 = { image_data_CDJ900_0x25,
+    6, 7, 8};
+#endif
+
+
+//0x26
+    0x60, 
+    0x90, 
+    0xa0, 
+    0x40, 
+    0xa8, 
+    0x90, 
+    0x68
+};
+static const tImage CDJ900_0x26 = { image_data_CDJ900_0x26,
+    6, 7, 8};
+#endif
+
+
+//0x27
+    0xc0, 
+    0x40, 
+    0x80, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00
+};
+static const tImage CDJ900_0x2 image_data_CDJ900_0x27,
+    6, 7, 8};
+#endif
+
+
+//0x28
+    0x20, 
+    0x40, 
+    0x80, 
+    0x80, 
+    0x80, 
+    0x40, 
+    0x20
+};
+static const tImage CDJ900_0x28 = { image_data_CDJ900_0x28,
+    6, 7, 8};
+#endif
+
+
+//0x29
+    0x80, 
+    0x40, 
+    0x20, 
+    0x20, 
+    0x20, 
+    0x40, 
+    0x80
+};
+static const tImage CDJ900_0x29 = { image_data_CDJ900_0x29,
+    6, 7, 8};
+#endif
+
+
+//0x2a
+    0x40, 
+    0xe0, 
+    0x40, 
+    0xa0, 
+    0x00, 
+    0x00, 
+    0x00
+};
+static const tImage CDJ900_0x2a = { image_data_CDJ900_0x2a,
+    6, 7, 8};
+#endif
+
+
+//0x2b
+    0x00, 
+    0x00, 
+    0x40, 
+    0xe0, 
+    0x40, 
+    0x00, 
+    0x00
+};
+static const tImage CDJ900_0x2b = { image_data_CDJ900_0x2b,
+    6, 7, 8};
+#endif
+
+
+//0x2c
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0xc0, 
+    0x40, 
+    0x80
+};
+static const tImage CDJ900_0x2c = { image_data_CDJ900_0x2c,
+    6, 7, 8};
+#endif
+
+
+//0x2d
+    0x00, 
+    0x00, 
+    0x00, 
+    0xe0, 
+    0x00, 
+    0x00, 
+    0x00
+};
+static const tImage CDJ900_0x2d = { image_data_CDJ900_0x2d,
+    6, 7, 8};
+#endif
+
+
+//0x2e
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0xc0, 
+    0xc0
+};
+static const tImage CDJ900_0x2e = { image_data_CDJ900_0x2e,
+    6, 7, 8};
+#endif
+
+
+//0x2f
+    0x20, 
+    0x20, 
+    0x40, 
+    0x40, 
+    0x40, 
+    0x80, 
+    0x80
+};
+static const tImage CDJ900_0x2f = { image_data_CDJ900_0x2f,
+    6, 7, 8};
+#endif
+
+
+//0x30
+    0x70, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x70
+};
+static const tImage CDJ900_0x30 = { image_data_CDJ900_0x30,
+    6, 7, 8};
+#endif
+
+
+//0x31
+    0x20, 
+    0x60, 
+    0x20, 
+    0x20, 
+    0x20, 
+    0x20, 
+    0x70
+};
+static const tImage CDJ900_0x31 = { image_data_CDJ900_0x31,
+    6, 7, 8};
+#endif
+
+
+//0x32
+    0x70, 
+    0x88, 
+    0x08, 
+    0x10, 
+    0x20, 
+    0x40, 
+    0xf8
+};
+static const tImage CDJ900_0x32 = { image_data_CDJ900_0x32,
+    6, 7, 8};
+#endif
+
+
+//0x33
+    0xf8, 
+    0x10, 
+    0x20, 
+    0x10, 
+    0x08, 
+    0x88, 
+    0x70
+};
+static const tImage CDJ900_0x33 = { image_data_CDJ900_0x33,
+    6, 7, 8};
+#endif
+
+
+//0x34
+    0x10, 
+    0x30, 
+    0x50, 
+    0x90, 
+    0xf8, 
+    0x10, 
+    0x10
+};
+static const tImage CDJ900_0x34 = { image_data_CDJ900_0x34,
+    6, 7, 8};
+#endif
+
+
+//0x35
+    0xf8, 
+    0x80, 
+    0xf0, 
+    0x08, 
+    0x08, 
+    0x88, 
+    0x70
+};
+static const tImage CDJ900_0x35 = { image_data_CDJ900_0x35,
+    6, 7, 8};
+#endif
+
+
+//0x36
+    0x30, 
+    0x40, 
+    0x80, 
+    0xf0, 
+    0x88, 
+    0x88, 
+    0x70
+};
+static const tImage CDJ900_0x36 = { image_data_CDJ900_0x36,
+    6, 7, 8};
+#endif
+
+
+//0x37
+    0xf8, 
+    0x08, 
+    0x10, 
+    0x20, 
+    0x40, 
+    0x40, 
+    0x40
+};
+static const tImage CDJ900_0x3 image_data_CDJ900_0x37,
+    6, 7, 8};
+#endif
+
+
+//0x38
+    0x70, 
+    0x88, 
+    0x88, 
+    0x70, 
+    0x88, 
+    0x88, 
+    0x70
+};
+static const tImage CDJ900_0x38 = { image_data_CDJ900_0x38,
+    6, 7, 8};
+#endif
+
+
+//0x39
+    0x70, 
+    0x88, 
+    0x88, 
+    0x78, 
+    0x08, 
+    0x10, 
+    0x60
+};
+static const tImage CDJ900_0x39 = { image_data_CDJ900_0x39,
+    6, 7, 8};
+#endif
+
+
+//0x3a
+    0x00, 
+    0xc0, 
+    0xc0, 
+    0x00, 
+    0xc0, 
+    0xc0, 
+    0x00
+};
+static const tImage CDJ900_0x3a = { image_data_CDJ900_0x3a,
+    6, 7, 8};
+#endif
+
+
+//0x3b
+    0x00, 
+    0xc0, 
+    0xc0, 
+    0x00, 
+    0xc0, 
+    0x40, 
+    0x80
+};
+static const tImage CDJ900_0x3b = { image_data_CDJ900_0x3b,
+    6, 7, 8};
+#endif
+
+
+//0x3c
+    0x10, 
+    0x20, 
+    0x40, 
+    0x80, 
+    0x40, 
+    0x20, 
+    0x10
+};
+static const tImage CDJ900_0x3c = { image_data_CDJ900_0x3c,
+    6, 7, 8};
+#endif
+
+
+//0x3d
+    0x00, 
+    0x00, 
+    0xf0, 
+    0x00, 
+    0xf0, 
+    0x00, 
+    0x00
+};
+static const tImage CDJ900_0x3d = { image_data_CDJ900_0x3d,
+    6, 7, 8};
+#endif
+
+
+//0x3e
+    0x80, 
+    0x40, 
+    0x20, 
+    0x10, 
+    0x20, 
+    0x40, 
+    0x80
+};
+static const tImage CDJ900_0x3e = { image_data_CDJ900_0x3e,
+    6, 7, 8};
+#endif
+
+
+//0x3f
+    0x70, 
+    0x88, 
+    0x08, 
+    0x10, 
+    0x20, 
+    0x00, 
+    0x20
+};
+static const tImage CDJ900_0x3f = { image_data_CDJ900_0x3f,
+    6, 7, 8};
+#endif
+
+
+//0x40
+    0x70, 
+    0x88, 
+    0x08, 
+    0x68, 
+    0xa8, 
+    0xa8, 
+    0x70
+};
+static const tImage CDJ900_0x40 = { image_data_CDJ900_0x40,
+    6, 7, 8};
+#endif
+
+
+//0x41
+    0x70, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0xf8, 
+    0x88, 
+    0x88
+};
+static const tImage CDJ900_0x41 = { image_data_CDJ900_0x41,
+    6, 7, 8};
+#endif
+
+
+//0x42
+    0xf0, 
+    0x88, 
+    0x88, 
+    0xf0, 
+    0x88, 
+    0x88, 
+    0xf0
+};
+static const tImage CDJ900_0x42 = { image_data_CDJ900_0x42,
+    6, 7, 8};
+#endif
+
+
+//0x43
+    0x70, 
+    0x88, 
+    0x80, 
+    0x80, 
+    0x80, 
+    0x88, 
+    0x70
+};
+static const tImage CDJ900_0x43 = { image_data_CDJ900_0x43,
+    6, 7, 8};
+#endif
+
+
+//0x44
+    0xe0, 
+    0x90, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x90, 
+    0xe0
+};
+static const tImage CDJ900_0x44 = { image_data_CDJ900_0x44,
+    6, 7, 8};
+#endif
+
+
+//0x45
+    0xf8, 
+    0x80, 
+    0x80, 
+    0xf0, 
+    0x80, 
+    0x80, 
+    0xf8
+};
+static const tImage CDJ900_0x45 = { image_data_CDJ900_0x45,
+    6, 7, 8};
+#endif
+
+
+//0x46
+    0xf8, 
+    0x80, 
+    0x80, 
+    0xf0, 
+    0x80, 
+    0x80, 
+    0x80
+};
+static const tImage CDJ900_0x46 = { image_data_CDJ900_0x46,
+    6, 7, 8};
+#endif
+
+
+//0x47
+    0x70, 
+    0x88, 
+    0x80, 
+    0xb8, 
+    0x88, 
+    0x88, 
+    0x78
+};
+static const tImage CDJ900_0x4 image_data_CDJ900_0x47,
+    6, 7, 8};
+#endif
+
+
+//0x48
+    0x88, 
+    0x88, 
+    0x88, 
+    0xf8, 
+    0x88, 
+    0x88, 
+    0x88
+};
+static const tImage CDJ900_0x48 = { image_data_CDJ900_0x48,
+    6, 7, 8};
+#endif
+
+
+//0x49
+    0xe0, 
+    0x40, 
+    0x40, 
+    0x40, 
+    0x40, 
+    0x40, 
+    0xe0
+};
+static const tImage CDJ900_0x49 = { image_data_CDJ900_0x49,
+    6, 7, 8};
+#endif
+
+
+//0x4a
+    0x38, 
+    0x10, 
+    0x10, 
+    0x10, 
+    0x10, 
+    0x90, 
+    0x60
+};
+static const tImage CDJ900_0x4a = { image_data_CDJ900_0x4a,
+    6, 7, 8};
+#endif
+
+
+//0x4b
+    0x88, 
+    0x90, 
+    0xa0, 
+    0xc0, 
+    0xa0, 
+    0x90, 
+    0x88
+};
+static const tImage CDJ900_0x4b = { image_data_CDJ900_0x4b,
+    6, 7, 8};
+#endif
+
+
+//0x4c
+    0x80, 
+    0x80, 
+    0x80, 
+    0x80, 
+    0x80, 
+    0x80, 
+    0xf8
+};
+static const tImage CDJ900_0x4c = { image_data_CDJ900_0x4c,
+    6, 7, 8};
+#endif
+
+
+//0x4d
+    0x88, 
+    0xd8, 
+    0xa8, 
+    0xa8, 
+    0x88, 
+    0x88, 
+    0x88
+};
+static const tImage CDJ900_0x4d = { image_data_CDJ900_0x4d,
+    6, 7, 8};
+#endif
+
+
+//0x4e
+    0x88, 
+    0x88, 
+    0xc8, 
+    0xa8, 
+    0x98, 
+    0x88, 
+    0x88
+};
+static const tImage CDJ900_0x4e = { image_data_CDJ900_0x4e,
+    6, 7, 8};
+#endif
+
+#if (0x030 == 0x0)
+//0x4f
+    0x70, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x70
+};
+static const tImage CDJ900_0x4f = { image_data_CDJ900_0x4f,
+    6, 7, 8};
+#endif
+
+
+//0x50
+    0xf0, 
+    0x88, 
+    0x88, 
+    0xf0, 
+    0x80, 
+    0x80, 
+    0x80
+};
+static const tImage CDJ900_0x50 = { image_data_CDJ900_0x50,
+    6, 7, 8};
+#endif
+
+
+//0x51
+    0x70, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0xa8, 
+    0x90, 
+    0x68
+};
+static const tImage CDJ900_0x51 = { image_data_CDJ900_0x51,
+    6, 7, 8};
+#endif
+
+
+//0x52
+    0xf0, 
+    0x88, 
+    0x88, 
+    0xf0, 
+    0xa0, 
+    0x90, 
+    0x88
+};
+static const tImage CDJ900_0x52 = { image_data_CDJ900_0x52,
+    6, 7, 8};
+#endif
+
+
+//0x53
+    0x78, 
+    0x80, 
+    0x80, 
+    0x70, 
+    0x08, 
+    0x08, 
+    0xf0
+};
+static const tImage CDJ900_0x53 = { image_data_CDJ900_0x53,
+    6, 7, 8};
+#endif
+
+
+//0x54
+    0xf8, 
+    0x20, 
+    0x20, 
+    0x20, 
+    0x20, 
+    0x20, 
+    0x20
+};
+static const tImage CDJ900_0x54 = { image_data_CDJ900_0x54,
+    6, 7, 8};
+#endif
+
+
+//0x55
+    0x88, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x70
+};
+static const tImage CDJ900_0x55 = { image_data_CDJ900_0x55,
+    6, 7, 8};
+#endif
+
+
+//0x56
+    0x88, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x50, 
+    0x20
+};
+static const tImage CDJ900_0x56 = { image_data_CDJ900_0x56,
+    6, 7, 8};
+#endif
+
+
+//0x57
+    0x88, 
+    0x88, 
+    0x88, 
+    0xa8, 
+    0xa8, 
+    0xa8, 
+    0x50
+};
+static const tImage CDJ900_0x5 image_data_CDJ900_0x57,
+    6, 7, 8};
+#endif
+
+
+//0x58
+    0x88, 
+    0x88, 
+    0x50, 
+    0x20, 
+    0x50, 
+    0x88, 
+    0x88
+};
+static const tImage CDJ900_0x58 = { image_data_CDJ900_0x58,
+    6, 7, 8};
+#endif
+
+
+//0x59
+    0x88, 
+    0x88, 
+    0x88, 
+    0x50, 
+    0x20, 
+    0x20, 
+    0x20
+};
+static const tImage CDJ900_0x59 = { image_data_CDJ900_0x59,
+    6, 7, 8};
+#endif
+
+
+//0x5a
+    0xf8, 
+    0x08, 
+    0x10, 
+    0x20, 
+    0x40, 
+    0x80, 
+    0xf8
+};
+static const tImage CDJ900_0x5a = { image_data_CDJ900_0x5a,
+    6, 7, 8};
+#endif
+
+
+//0x5b
+    0xf0, 
+    0xe0, 
+    0xc0, 
+    0xc0, 
+    0xc0, 
+    0xe0, 
+    0xf0
+};
+static const tImage CDJ900_0x5b = { image_data_CDJ900_0x5b,
+    6, 7, 8};
+#endif
+
+
+//0x5c
+    0x80, 
+    0x80, 
+    0x40, 
+    0x40, 
+    0x40, 
+    0x20, 
+    0x20
+};
+static const tImage CDJ900_0x5c = { image_data_CDJ900_0x5c,
+    6, 7, 8};
+#endif
+
+
+//0x5d
+    0xf0, 
+    0x70, 
+    0x30, 
+    0x30, 
+    0x30, 
+    0x70, 
+    0xf0
+};
+static const tImage CDJ900_0x5d = { image_data_CDJ900_0x5d,
+    6, 7, 8};
+#endif
+
+
+//0x5e
+    0x40, 
+    0xa0, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00
+};
+static const tImage CDJ900_0x5e = { image_data_CDJ900_0x5e,
+    6, 7, 8};
+#endif
+
+
+//0x5f
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0xf0
+};
+static const tImage CDJ900_0x5f = { image_data_CDJ900_0x5f,
+    6, 7, 8};
+#endif
+
+
+//0x60
+    0xc0, 
+    0x80, 
+    0x40, 
+    0x00, 
+    0x00, 
+    0x00, 
+    0x00
+};
+static const tImage CDJ900_0x60 = { image_data_CDJ900_0x60,
+    6, 7, 8};
+#endif
+
+
+//0x61
+    0x00, 
+    0x00, 
+    0x70, 
+    0x08, 
+    0x78, 
+    0x88, 
+    0x78
+};
+static const tImage CDJ900_0x61 = { image_data_CDJ900_0x61,
+    6, 7, 8};
+#endif
+
+
+//0x62
+    0x80, 
+    0x80, 
+    0xb0, 
+    0xc8, 
+    0x88, 
+    0x88, 
+    0xf0
+};
+static const tImage CDJ900_0x62 = { image_data_CDJ900_0x62,
+    6, 7, 8};
+#endif
+
+
+//0x63
+    0x00, 
+    0x00, 
+    0x70, 
+    0x80, 
+    0x80, 
+    0x80, 
+    0x70
+};
+static const tImage CDJ900_0x63 = { image_data_CDJ900_0x63,
+    6, 7, 8};
+#endif
+
+
+//0x64
+    0x08, 
+    0x08, 
+    0x68, 
+    0x98, 
+    0x88, 
+    0x88, 
+    0x78
+};
+static const tImage CDJ900_0x64 = { image_data_CDJ900_0x64,
+    6, 7, 8};
+#endif
+
+
+//0x65
+    0x00, 
+    0x00, 
+    0x70, 
+    0x88, 
+    0xf8, 
+    0x80, 
+    0x70
+};
+static const tImage CDJ900_0x65 = { image_data_CDJ900_0x65,
+    6, 7, 8};
+#endif
+
+
+//0x66
+    0x30, 
+    0x48, 
+    0x40, 
+    0xe0, 
+    0x40, 
+    0x40, 
+    0x40
+};
+static const tImage CDJ900_0x66 = { image_data_CDJ900_0x66,
+    6, 7, 8};
+#endif
+
+
+//0x67
+    0x00, 
+    0x78, 
+    0x88, 
+    0x88, 
+    0x78, 
+    0x08, 
+    0x70
+};
+static const tImage CDJ900_0x6 image_data_CDJ900_0x67,
+    6, 7, 8};
+#endif
+
+
+//0x68
+    0x80, 
+    0x80, 
+    0xb0, 
+    0xc8, 
+    0x88, 
+    0x88, 
+    0x88
+};
+static const tImage CDJ900_0x68 = { image_data_CDJ900_0x68,
+    6, 7, 8};
+#endif
+
+
+//0x69
+    0x40, 
+    0x00, 
+    0xc0, 
+    0x40, 
+    0x40, 
+    0x40, 
+    0xe0
+};
+static const tImage CDJ900_0x69 = { image_data_CDJ900_0x69,
+    6, 7, 8};
+#endif
+
+
+//0x6a
+    0x10, 
+    0x00, 
+    0x30, 
+    0x10, 
+    0x10, 
+    0x90, 
+    0x60
+};
+static const tImage CDJ900_0x6a = { image_data_CDJ900_0x6a,
+    6, 7, 8};
+#endif
+
+
+//0x6b
+    0x80, 
+    0x80, 
+    0x90, 
+    0xa0, 
+    0xc0, 
+    0xa0, 
+    0x90
+};
+static const tImage CDJ900_0x6b = { image_data_CDJ900_0x6b,
+    6, 7, 8};
+#endif
+
+
+//0x6c
+    0xc0, 
+    0x40, 
+    0x40, 
+    0x40, 
+    0x40, 
+    0x40, 
+    0xe0
+};
+static const tImage CDJ900_0x6c = { image_data_CDJ900_0x6c,
+    6, 7, 8};
+#endif
+
+
+//0x6d
+    0x00, 
+    0x00, 
+    0xd0, 
+    0xa8, 
+    0xa8, 
+    0x88, 
+    0x88
+};
+static const tImage CDJ900_0x6d = { image_data_CDJ900_0x6d,
+    6, 7, 8};
+#endif
+
+
+//0x6e
+    0x00, 
+    0x00, 
+    0xb0, 
+    0xc8, 
+    0x88, 
+    0x88, 
+    0x88
+};
+static const tImage CDJ900_0x6e = { image_data_CDJ900_0x6e,
+    6, 7, 8};
+#endif
+
+
+//0x6f
+    0x00, 
+    0x00, 
+    0x70, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x70
+};
+static const tImage CDJ900_0x6f = { image_data_CDJ900_0x6f,
+    6, 7, 8};
+#endif
+
+
+//0x70
+    0x00, 
+    0x00, 
+    0xf0, 
+    0x88, 
+    0xf0, 
+    0x80, 
+    0x80
+};
+static const tImage CDJ900_0x70 = { image_data_CDJ900_0x70,
+    6, 7, 8};
+#endif
+
+
+//0x71
+    0x00, 
+    0x78, 
+    0x88, 
+    0x88, 
+    0x98, 
+    0x68, 
+    0x08
+};
+static const tImage CDJ900_0x71 = { image_data_CDJ900_0x71,
+    6, 7, 8};
+#endif
+
+
+//0x72
+    0x00, 
+    0x00, 
+    0xb0, 
+    0xc8, 
+    0x80, 
+    0x80, 
+    0x80
+};
+static const tImage CDJ900_0x72 = { image_data_CDJ900_0x72,
+    6, 7, 8};
+#endif
+
+
+//0x73
+    0x00, 
+    0x00, 
+    0x70, 
+    0x80, 
+    0x70, 
+    0x08, 
+    0xf0
+};
+static const tImage CDJ900_0x73 = { image_data_CDJ900_0x73,
+    6, 7, 8};
+#endif
+
+
+//0x74
+    0x40, 
+    0x40, 
+    0xe0, 
+    0x40, 
+    0x40, 
+    0x48, 
+    0x30
+};
+static const tImage CDJ900_0x74 = { image_data_CDJ900_0x74,
+    6, 7, 8};
+#endif
+
+
+//0x75
+    0x00, 
+    0x00, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x98, 
+    0x68
+};
+static const tImage CDJ900_0x75 = { image_data_CDJ900_0x75,
+    6, 7, 8};
+#endif
+
+
+//0x76
+    0x00, 
+    0x00, 
+    0x88, 
+    0x88, 
+    0x88, 
+    0x50, 
+    0x20
+};
+static const tImage CDJ900_0x76 = { image_data_CDJ900_0x76,
+    6, 7, 8};
+#endif
+
+
+//0x77
+    0x00, 
+    0x00, 
+    0x88, 
+    0x88, 
+    0xa8, 
+    0xa8, 
+    0x50
+};
+static const tImage CDJ900_0x7 image_data_CDJ900_0x77,
+    6, 7, 8};
+#endif
+
+
+//0x78
+    0x00, 
+    0x00, 
+    0x88, 
+    0x50, 
+    0x20, 
+    0x50, 
+    0x88
+};
+static const tImage CDJ900_0x78 = { image_data_CDJ900_0x78,
+    6, 7, 8};
+#endif
+
+
+//0x79
+    0x00, 
+    0x00, 
+    0x88, 
+    0x88, 
+    0x78, 
+    0x08, 
+    0x70
+};
+static const tImage CDJ900_0x79 = { image_data_CDJ900_0x79,
+    6, 7, 8};
+#endif
+
+
+//0x7a
+    0x00, 
+    0x00, 
+    0xf8, 
+    0x10, 
+    0x20, 
+    0x40, 
+    0xf8
+};
+static const tImage CDJ900_0x7a = { image_data_CDJ900_0x7a,
+    6, 7, 8};
+#endif
+
+
+//0x7b
+    0x20, 
+    0x40, 
+    0x40, 
+    0x80, 
+    0x40, 
+    0x40, 
+    0x20
+};
+static const tImage CDJ900_0x7b = { image_data_CDJ900_0x7b,
+    6, 7, 8};
+#endif
+
+
+//0x7c
+    0x80, 
+    0x80, 
+    0x80, 
+    0x80, 
+    0x80, 
+    0x80, 
+    0x80
+};
+static const tImage CDJ900_0x7c = { image_data_CDJ900_0x7c,
+    6, 7, 8};
+#endif
+
+
+//0x7d
+    0x80, 
+    0x40, 
+    0x40, 
+    0x20, 
+    0x40, 
+    0x40, 
+    0x80
+};
+static const tImage CDJ900_0x7d = { image_data_CDJ900_0x7d,
+    6, 7, 8};
+#endif
+
+
+//0x7e
+    0x00, 
+    0x00, 
+    0x40, 
+    0xa8, 
+    0x10, 
+    0x00, 
+    0x00
+};
+static const tImage CDJ900_0x7e = { image_data_CDJ900_0x7e,
+    6, 7, 8};
+#endif
+
+
+static const tChar CDJ900_array[] = {
+
+
+  // character: ' '
+  {0x20, &CDJ900_0x20},
+#else
+  // character: ' ' == ''
+  {0x20, &CDJ900_0x},
+#endif
+
+
+  // character: '!'
+  {0x21, &CDJ900_0x21},
+#else
+  // character: '!' == ''
+  {0x21, &CDJ900_0x},
+#endif
+
+
+  // character: '"'
+  {0x22, &CDJ900_0x22},
+#else
+  // character: '"' == ''
+  {0x22, &CDJ900_0x},
+#endif
+
+#if (0x020 == 0x0)
+  // character: '#'
+  {0x23, &CDJ900_0x23},
+#else
+  // character: '#' == ' '
+  {0x23, &CDJ900_0x20},
+#endif
+
+
+  // character: '$'
+  {0x24, &CDJ900_0x24},
+#else
+  // character: '$' == ''
+  {0x24, &CDJ900_0x},
+#endif
+
+
+  // character: '%'
+  {0x25, &CDJ900_0x25},
+#else
+  // character: '%' == ''
+  {0x25, &CDJ900_0x},
+#endif
+
+
+  // character: '&'
+  {0x26, &CDJ900_0x26},
+#else
+  // character: '&' == ''
+  {0x26, &CDJ900_0x},
+#endif
+
+
+  // character: '''
+  {0x27, &CDJ900_0x27},
+#else
+  // character: ''' == ''
+  {0x27, &CDJ900_0x},
+#endif
+
+
+  // character: '('
+  {0x28, &CDJ900_0x28},
+#else
+  // character: '(' == ''
+  {0x28, &CDJ900_0x},
+#endif
+
+
+  // character: ')'
+  {0x29, &CDJ900_0x29},
+#else
+  // character: ')' == ''
+  {0x29, &CDJ900_0x},
+#endif
+
+
+  // character: '*'
+  {0x2a, &CDJ900_0x2a},
+#else
+  // character: '*' == ''
+  {0x2a, &CDJ900_0x},
+#endif
+
+
+  // character: '+'
+  {0x2b, &CDJ900_0x2b},
+#else
+  // character: '+' == ''
+  {0x2b, &CDJ900_0x},
+#endif
+
+
+  // character: ','
+  {0x2c, &CDJ900_0x2c},
+#else
+  // character: ',' == ''
+  {0x2c, &CDJ900_0x},
+#endif
+
+
+  // character: '-'
+  {0x2d, &CDJ900_0x2d},
+#else
+  // character: '-' == ''
+  {0x2d, &CDJ900_0x},
+#endif
+
+
+  // character: '.'
+  {0x2e, &CDJ900_0x2e},
+#else
+  // character: '.' == ''
+  {0x2e, &CDJ900_0x},
+#endif
+
+
+  // character: '/'
+  {0x2f, &CDJ900_0x2f},
+#else
+  // character: '/' == ''
+  {0x2f, &CDJ900_0x},
+#endif
+
+
+  // character: '0'
+  {0x30, &CDJ900_0x30},
+#else
+  // character: '0' == ''
+  {0x30, &CDJ900_0x},
+#endif
+
+
+  // character: '1'
+  {0x31, &CDJ900_0x31},
+#else
+  // character: '1' == ''
+  {0x31, &CDJ900_0x},
+#endif
+
+
+  // character: '2'
+  {0x32, &CDJ900_0x32},
+#else
+  // character: '2' == ''
+  {0x32, &CDJ900_0x},
+#endif
+
+
+  // character: '3'
+  {0x33, &CDJ900_0x33},
+#else
+  // character: '3' == ''
+  {0x33, &CDJ900_0x},
+#endif
+
+
+  // character: '4'
+  {0x34, &CDJ900_0x34},
+#else
+  // character: '4' == ''
+  {0x34, &CDJ900_0x},
+#endif
+
+
+  // character: '5'
+  {0x35, &CDJ900_0x35},
+#else
+  // character: '5' == ''
+  {0x35, &CDJ900_0x},
+#endif
+
+
+  // character: '6'
+  {0x36, &CDJ900_0x36},
+#else
+  // character: '6' == ''
+  {0x36, &CDJ900_0x},
+#endif
+
+
+  // character: '7'
+  {0x37, &CDJ900_0x37},
+#else
+  // character: '7' == ''
+  {0x37, &CDJ900_0x},
+#endif
+
+
+  // character: '8'
+  {0x38, &CDJ900_0x38},
+#else
+  // character: '8' == ''
+  {0x38, &CDJ900_0x},
+#endif
+
+
+  // character: '9'
+  {0x39, &CDJ900_0x39},
+#else
+  // character: '9' == ''
+  {0x39, &CDJ900_0x},
+#endif
+
+
+  // character: ':'
+  {0x3a, &CDJ900_0x3a},
+#else
+  // character: ':' == ''
+  {0x3a, &CDJ900_0x},
+#endif
+
+
+  // character: ';'
+  {0x3b, &CDJ900_0x3b},
+#else
+  // character: ';' == ''
+  {0x3b, &CDJ900_0x},
+#endif
+
+
+  // character: '<'
+  {0x3c, &CDJ900_0x3c},
+#else
+  // character: '<' == ''
+  {0x3c, &CDJ900_0x},
+#endif
+
+
+  // character: '='
+  {0x3d, &CDJ900_0x3d},
+#else
+  // character: '=' == ''
+  {0x3d, &CDJ900_0x},
+#endif
+
+
+  // character: '>'
+  {0x3e, &CDJ900_0x3e},
+#else
+  // character: '>' == ''
+  {0x3e, &CDJ900_0x},
+#endif
+
+
+  // character: '?'
+  {0x3f, &CDJ900_0x3f},
+#else
+  // character: '?' == ''
+  {0x3f, &CDJ900_0x},
+#endif
+
+
+  // character: '\x0040'
+  {0x40, &CDJ900_0x40},
+#else
+  // character: '\x0040' == ''
+  {0x40, &CDJ900_0x},
+#endif
+
+
+  // character: 'A'
+  {0x41, &CDJ900_0x41},
+#else
+  // character: 'A' == ''
+  {0x41, &CDJ900_0x},
+#endif
+
+
+  // character: 'B'
+  {0x42, &CDJ900_0x42},
+#else
+  // character: 'B' == ''
+  {0x42, &CDJ900_0x},
+#endif
+
+
+  // character: 'C'
+  {0x43, &CDJ900_0x43},
+#else
+  // character: 'C' == ''
+  {0x43, &CDJ900_0x},
+#endif
+
+
+  // character: 'D'
+  {0x44, &CDJ900_0x44},
+#else
+  // character: 'D' == ''
+  {0x44, &CDJ900_0x},
+#endif
+
+
+  // character: 'E'
+  {0x45, &CDJ900_0x45},
+#else
+  // character: 'E' == ''
+  {0x45, &CDJ900_0x},
+#endif
+
+
+  // character: 'F'
+  {0x46, &CDJ900_0x46},
+#else
+  // character: 'F' == ''
+  {0x46, &CDJ900_0x},
+#endif
+
+
+  // character: 'G'
+  {0x47, &CDJ900_0x47},
+#else
+  // character: 'G' == ''
+  {0x47, &CDJ900_0x},
+#endif
+
+
+  // character: 'H'
+  {0x48, &CDJ900_0x48},
+#else
+  // character: 'H' == ''
+  {0x48, &CDJ900_0x},
+#endif
+
+
+  // character: 'I'
+  {0x49, &CDJ900_0x49},
+#else
+  // character: 'I' == ''
+  {0x49, &CDJ900_0x},
+#endif
+
+
+  // character: 'J'
+  {0x4a, &CDJ900_0x4a},
+#else
+  // character: 'J' == ''
+  {0x4a, &CDJ900_0x},
+#endif
+
+
+  // character: 'K'
+  {0x4b, &CDJ900_0x4b},
+#else
+  // character: 'K' == ''
+  {0x4b, &CDJ900_0x},
+#endif
+
+
+  // character: 'L'
+  {0x4c, &CDJ900_0x4c},
+#else
+  // character: 'L' == ''
+  {0x4c, &CDJ900_0x},
+#endif
+
+
+  // character: 'M'
+  {0x4d, &CDJ900_0x4d},
+#else
+  // character: 'M' == ''
+  {0x4d, &CDJ900_0x},
+#endif
+
+
+  // character: 'N'
+  {0x4e, &CDJ900_0x4e},
+#else
+  // character: 'N' == ''
+  {0x4e, &CDJ900_0x},
+#endif
+
+#if (0x030 == 0x0)
+  // character: 'O'
+  {0x4f, &CDJ900_0x4f},
+#else
+  // character: 'O' == '0'
+  {0x4f, &CDJ900_0x30},
+#endif
+
+
+  // character: 'P'
+  {0x50, &CDJ900_0x50},
+#else
+  // character: 'P' == ''
+  {0x50, &CDJ900_0x},
+#endif
+
+
+  // character: 'Q'
+  {0x51, &CDJ900_0x51},
+#else
+  // character: 'Q' == ''
+  {0x51, &CDJ900_0x},
+#endif
+
+
+  // character: 'R'
+  {0x52, &CDJ900_0x52},
+#else
+  // character: 'R' == ''
+  {0x52, &CDJ900_0x},
+#endif
+
+
+  // character: 'S'
+  {0x53, &CDJ900_0x53},
+#else
+  // character: 'S' == ''
+  {0x53, &CDJ900_0x},
+#endif
+
+
+  // character: 'T'
+  {0x54, &CDJ900_0x54},
+#else
+  // character: 'T' == ''
+  {0x54, &CDJ900_0x},
+#endif
+
+
+  // character: 'U'
+  {0x55, &CDJ900_0x55},
+#else
+  // character: 'U' == ''
+  {0x55, &CDJ900_0x},
+#endif
+
+
+  // character: 'V'
+  {0x56, &CDJ900_0x56},
+#else
+  // character: 'V' == ''
+  {0x56, &CDJ900_0x},
+#endif
+
+
+  // character: 'W'
+  {0x57, &CDJ900_0x57},
+#else
+  // character: 'W' == ''
+  {0x57, &CDJ900_0x},
+#endif
+
+
+  // character: 'X'
+  {0x58, &CDJ900_0x58},
+#else
+  // character: 'X' == ''
+  {0x58, &CDJ900_0x},
+#endif
+
+
+  // character: 'Y'
+  {0x59, &CDJ900_0x59},
+#else
+  // character: 'Y' == ''
+  {0x59, &CDJ900_0x},
+#endif
+
+
+  // character: 'Z'
+  {0x5a, &CDJ900_0x5a},
+#else
+  // character: 'Z' == ''
+  {0x5a, &CDJ900_0x},
+#endif
+
+
+  // character: '['
+  {0x5b, &CDJ900_0x5b},
+#else
+  // character: '[' == ''
+  {0x5b, &CDJ900_0x},
+#endif
+
+
+  // character: '\'
+  {0x5c, &CDJ900_0x5c},
+#else
+  // character: '\' == ''
+  {0x5c, &CDJ900_0x},
+#endif
+
+
+  // character: ']'
+  {0x5d, &CDJ900_0x5d},
+#else
+  // character: ']' == ''
+  {0x5d, &CDJ900_0x},
+#endif
+
+
+  // character: '^'
+  {0x5e, &CDJ900_0x5e},
+#else
+  // character: '^' == ''
+  {0x5e, &CDJ900_0x},
+#endif
+
+
+  // character: '_'
+  {0x5f, &CDJ900_0x5f},
+#else
+  // character: '_' == ''
+  {0x5f, &CDJ900_0x},
+#endif
+
+
+  // character: '`'
+  {0x60, &CDJ900_0x60},
+#else
+  // character: '`' == ''
+  {0x60, &CDJ900_0x},
+#endif
+
+
+  // character: 'a'
+  {0x61, &CDJ900_0x61},
+#else
+  // character: 'a' == ''
+  {0x61, &CDJ900_0x},
+#endif
+
+
+  // character: 'b'
+  {0x62, &CDJ900_0x62},
+#else
+  // character: 'b' == ''
+  {0x62, &CDJ900_0x},
+#endif
+
+
+  // character: 'c'
+  {0x63, &CDJ900_0x63},
+#else
+  // character: 'c' == ''
+  {0x63, &CDJ900_0x},
+#endif
+
+
+  // character: 'd'
+  {0x64, &CDJ900_0x64},
+#else
+  // character: 'd' == ''
+  {0x64, &CDJ900_0x},
+#endif
+
+
+  // character: 'e'
+  {0x65, &CDJ900_0x65},
+#else
+  // character: 'e' == ''
+  {0x65, &CDJ900_0x},
+#endif
+
+
+  // character: 'f'
+  {0x66, &CDJ900_0x66},
+#else
+  // character: 'f' == ''
+  {0x66, &CDJ900_0x},
+#endif
+
+
+  // character: 'g'
+  {0x67, &CDJ900_0x67},
+#else
+  // character: 'g' == ''
+  {0x67, &CDJ900_0x},
+#endif
+
+
+  // character: 'h'
+  {0x68, &CDJ900_0x68},
+#else
+  // character: 'h' == ''
+  {0x68, &CDJ900_0x},
+#endif
+
+
+  // character: 'i'
+  {0x69, &CDJ900_0x69},
+#else
+  // character: 'i' == ''
+  {0x69, &CDJ900_0x},
+#endif
+
+
+  // character: 'j'
+  {0x6a, &CDJ900_0x6a},
+#else
+  // character: 'j' == ''
+  {0x6a, &CDJ900_0x},
+#endif
+
+
+  // character: 'k'
+  {0x6b, &CDJ900_0x6b},
+#else
+  // character: 'k' == ''
+  {0x6b, &CDJ900_0x},
+#endif
+
+
+  // character: 'l'
+  {0x6c, &CDJ900_0x6c},
+#else
+  // character: 'l' == ''
+  {0x6c, &CDJ900_0x},
+#endif
+
+
+  // character: 'm'
+  {0x6d, &CDJ900_0x6d},
+#else
+  // character: 'm' == ''
+  {0x6d, &CDJ900_0x},
+#endif
+
+
+  // character: 'n'
+  {0x6e, &CDJ900_0x6e},
+#else
+  // character: 'n' == ''
+  {0x6e, &CDJ900_0x},
+#endif
+
+
+  // character: 'o'
+  {0x6f, &CDJ900_0x6f},
+#else
+  // character: 'o' == ''
+  {0x6f, &CDJ900_0x},
+#endif
+
+
+  // character: 'p'
+  {0x70, &CDJ900_0x70},
+#else
+  // character: 'p' == ''
+  {0x70, &CDJ900_0x},
+#endif
+
+
+  // character: 'q'
+  {0x71, &CDJ900_0x71},
+#else
+  // character: 'q' == ''
+  {0x71, &CDJ900_0x},
+#endif
+
+
+  // character: 'r'
+  {0x72, &CDJ900_0x72},
+#else
+  // character: 'r' == ''
+  {0x72, &CDJ900_0x},
+#endif
+
+
+  // character: 's'
+  {0x73, &CDJ900_0x73},
+#else
+  // character: 's' == ''
+  {0x73, &CDJ900_0x},
+#endif
+
+
+  // character: 't'
+  {0x74, &CDJ900_0x74},
+#else
+  // character: 't' == ''
+  {0x74, &CDJ900_0x},
+#endif
+
+
+  // character: 'u'
+  {0x75, &CDJ900_0x75},
+#else
+  // character: 'u' == ''
+  {0x75, &CDJ900_0x},
+#endif
+
+
+  // character: 'v'
+  {0x76, &CDJ900_0x76},
+#else
+  // character: 'v' == ''
+  {0x76, &CDJ900_0x},
+#endif
+
+
+  // character: 'w'
+  {0x77, &CDJ900_0x77},
+#else
+  // character: 'w' == ''
+  {0x77, &CDJ900_0x},
+#endif
+
+
+  // character: 'x'
+  {0x78, &CDJ900_0x78},
+#else
+  // character: 'x' == ''
+  {0x78, &CDJ900_0x},
+#endif
+
+
+  // character: 'y'
+  {0x79, &CDJ900_0x79},
+#else
+  // character: 'y' == ''
+  {0x79, &CDJ900_0x},
+#endif
+
+
+  // character: 'z'
+  {0x7a, &CDJ900_0x7a},
+#else
+  // character: 'z' == ''
+  {0x7a, &CDJ900_0x},
+#endif
+
+
+  // character: '{'
+  {0x7b, &CDJ900_0x7b},
+#else
+  // character: '{' == ''
+  {0x7b, &CDJ900_0x},
+#endif
+
+
+  // character: '|'
+  {0x7c, &CDJ900_0x7c},
+#else
+  // character: '|' == ''
+  {0x7c, &CDJ900_0x},
+#endif
+
+
+  // character: '}'
+  {0x7d, &CDJ900_0x7d},
+#else
+  // character: '}' == ''
+  {0x7d, &CDJ900_0x},
+#endif
+
+
+  // character: '~'
+  {0x7e, &CDJ900_0x7e}
+#else
+  // character: '~' == ''
+  {0x7e, &CDJ900_0x}
+#endif
+
+};
+
+
+const tFont CDJ900 = { 95, CDJ900_array };
+
